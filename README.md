@@ -1,4 +1,5 @@
 # 42cursus
+Here you can find all the projects I made during my 42 cursus journey. 
 
 | 💻 Projects | 📄 Subject EN | 📄 Subject ES | ✅ Score |
 |------|-------|----------|--------|
