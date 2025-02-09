@@ -30,6 +30,6 @@ Here you can find all the projects I made during my 42 cursus journey.
 | [**CPP 09**](https://github.com/MGuardia10/42cursus_CPP) | C++ piscine: Module 09 | [Subject EN](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/cpp9_subject_en.pdf) | [Subject ES](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/cpp9_subject_en.pdf) | 100 / 100 |
 | [**Inception**](https://github.com/MGuardia10/42cursus_inception) | Set up a small infrastructure with different services using Docker and Docker Compose | [Subject EN](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/inception_subject_en.pdf) | [Subject ES](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/inception_subject_en.pdf) | 125 / 100 |
 | [**Webserv**](https://github.com/MGuardia10/42cursus_webserv) | Write a HTTP server using C++ | [Subject EN](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/webserver_subject_en.pdf) | [Subject ES](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/webserver_subject_en.pdf) | 125 / 100 |
-| **Exam Rank 06** | --- | --- | --- | pending... |
+| **Exam Rank 06** | --- | --- | --- | 100 / 100 |
 | [**Transcendence**](https://github.com/MGuardia10/) | Create a full-stack application with a lot of different features | [Subject EN](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/transcendence_subject_en.pdf) | [Subject ES](https://github.com/MGuardia10/42cursus/tree/main/subjects/en/transcendence_subject_en.pdf) | pending... |
 
